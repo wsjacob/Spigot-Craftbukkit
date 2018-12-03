@@ -1,0 +1,69 @@
+main: me.Interryne.vasplex.main.Main
+name: Vasplex
+version: 2.1
+author: Interryne
+
+commands:
+  vpversion:
+    description: Get the plugin version.
+  ip:
+    description: View the IP
+  cc:
+    description: Clear the chat
+    aliases: [clearchat]
+  checkworldhealth:
+    description: Get the world health
+    aliases: [worldperformance, wope, worldhealth]
+  play:
+    description: how to play game?
+    aliases: [game]
+  quickmaths:
+    description: QUICK MAFS
+  wp:
+    description: WELLPLAYED
+  lol:
+    description: KEK
+  hello:
+    description: hi nigga
+  playarandomasssound:
+    description: beep
+    aliases: [playrsound, randomsound, testsounds]
+  unstuck:
+    description: Teleport out of a stuck place.
+    aliases: [stuck]
+  testquickmathsenabled:
+    description: Check if quickmaths is on.
+    aliases: [isquickmathson, testquickmaths, tqm, qmenabled, qmon]
+  premium:
+    description: Open a GUI for donators.
+    aliases: [donator]
+  rules:
+    description: View the rules.
+    aliases: [guidelines]
+  changelog:
+    description: View the changelog
+    aliases: [changes]
+  dyearmor:
+    description: Dye armor
+    aliases: [da, armorcolor, aurmaurkleur, armourcolour, armourcolor, armorcolour]
+  colorlist:
+    description: Color list
+    aliases: [cllist, clist]
+  pcc:
+    description: clear personal chat.
+    aliases: [personalclearchat, personalcc]
+  help:
+    description: Get information on commands.
+    aliases: [how2playgame]
+  id:
+    description: Get material ID.
+    aliases: [getitemnamebyid, testitemid, getitem, getitemname]
+  store:
+    description: Link to donate to the store.
+    aliases: [donate]
+  about:
+    description: null
+  launch:
+    description: Whew
+  lockdown:
+    description: Turn off player functions.
