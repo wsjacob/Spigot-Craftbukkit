@@ -24,7 +24,7 @@ commands:
   lol:
     description: KEK
   hello:
-    description: hi nigga
+    description: hi
   playarandomasssound:
     description: beep
     aliases: [playrsound, randomsound, testsounds]
